@@ -1,0 +1,10 @@
+C:\Users\kenne\Desktop\Assignments\Machine Learning\VoicePad\VoicePad\VoicePad\bin\Debug\VoicePad.exe.config
+C:\Users\kenne\Desktop\Assignments\Machine Learning\VoicePad\VoicePad\VoicePad\bin\Debug\VoicePad.exe
+C:\Users\kenne\Desktop\Assignments\Machine Learning\VoicePad\VoicePad\VoicePad\bin\Debug\VoicePad.pdb
+C:\Users\kenne\Desktop\Assignments\Machine Learning\VoicePad\VoicePad\VoicePad\obj\Debug\VoicePad.csprojResolveAssemblyReference.cache
+C:\Users\kenne\Desktop\Assignments\Machine Learning\VoicePad\VoicePad\VoicePad\obj\Debug\VoicePad.Properties.Resources.resources
+C:\Users\kenne\Desktop\Assignments\Machine Learning\VoicePad\VoicePad\VoicePad\obj\Debug\VoicePad.VoicePad_Window.resources
+C:\Users\kenne\Desktop\Assignments\Machine Learning\VoicePad\VoicePad\VoicePad\obj\Debug\VoicePad.csproj.GenerateResource.Cache
+C:\Users\kenne\Desktop\Assignments\Machine Learning\VoicePad\VoicePad\VoicePad\obj\Debug\VoicePad.csproj.CoreCompileInputs.cache
+C:\Users\kenne\Desktop\Assignments\Machine Learning\VoicePad\VoicePad\VoicePad\obj\Debug\VoicePad.exe
+C:\Users\kenne\Desktop\Assignments\Machine Learning\VoicePad\VoicePad\VoicePad\obj\Debug\VoicePad.pdb
